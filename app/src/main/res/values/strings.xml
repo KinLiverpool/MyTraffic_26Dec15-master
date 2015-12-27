@@ -2,5 +2,6 @@
     <string name="app_name">My Traffic</string>
 
     <string name="head">จราจร</string>
+    <string name="title_activity_deatail">DeatailActivity</string>
 
 </resources>
